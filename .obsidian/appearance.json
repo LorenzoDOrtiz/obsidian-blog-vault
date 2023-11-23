@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Dark Moss",
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "showViewHeader": true,
+  "baseFontSizeAction": true
+}

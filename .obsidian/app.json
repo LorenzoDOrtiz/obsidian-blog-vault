@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "attatchments"
+}

@@ -1,0 +1,151 @@
+{
+  "recentFiles": [
+    {
+      "basename": "index",
+      "path": "docs/index.md"
+    },
+    {
+      "basename": "Indexes",
+      "path": "Indexes.md"
+    },
+    {
+      "basename": "overhead data",
+      "path": "overhead data.md"
+    },
+    {
+      "basename": "Select",
+      "path": "Select.md"
+    },
+    {
+      "basename": "Join operation",
+      "path": "Join operation.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Relational Databases.md"
+    },
+    {
+      "basename": "Third normal form",
+      "path": "Third normal form.md"
+    },
+    {
+      "basename": "Data normalization",
+      "path": "Data normalization.md"
+    },
+    {
+      "basename": "First normal form",
+      "path": "First normal form.md"
+    },
+    {
+      "basename": "Second normal form",
+      "path": "Second normal form.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "data manipulation language",
+      "path": "data manipulation language.md"
+    },
+    {
+      "basename": "Data Management",
+      "path": "Data Management.md"
+    },
+    {
+      "basename": "data definition language",
+      "path": "data definition language.md"
+    },
+    {
+      "basename": "Alter",
+      "path": "Alter.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Create",
+      "path": "Create.md"
+    },
+    {
+      "basename": "Redundancy & multiple themes ( list modification problems or anomalies)",
+      "path": "Redundancy & multiple themes ( list modification problems or anomalies).md"
+    },
+    {
+      "basename": "Keys",
+      "path": "Keys.md"
+    },
+    {
+      "basename": "Foreign keys",
+      "path": "Foreign keys.md"
+    },
+    {
+      "basename": "Primary keys",
+      "path": "Primary keys.md"
+    },
+    {
+      "basename": "Database Systems",
+      "path": "Database Systems.md"
+    },
+    {
+      "basename": "Users",
+      "path": "Users.md"
+    },
+    {
+      "basename": "Database Applications",
+      "path": "Database Applications.md"
+    },
+    {
+      "basename": "Database Management Systems",
+      "path": "Database Management Systems.md"
+    },
+    {
+      "basename": "Database",
+      "path": "Database.md"
+    },
+    {
+      "basename": "Null values",
+      "path": "Null values.md"
+    },
+    {
+      "basename": "Functional dependency",
+      "path": "Functional dependency.md"
+    },
+    {
+      "basename": "Nonunique Key",
+      "path": "Nonunique Key.md"
+    },
+    {
+      "basename": "Referential Integrity",
+      "path": "Referential Integrity.md"
+    },
+    {
+      "basename": "Unique Keys",
+      "path": "Unique Keys.md"
+    },
+    {
+      "basename": "Matched pairs of data values",
+      "path": "Matched pairs of data values.md"
+    },
+    {
+      "basename": "Application metadata",
+      "path": "Application metadata.md"
+    },
+    {
+      "basename": "Metadata",
+      "path": "Metadata.md"
+    },
+    {
+      "basename": "Referential Integrity Constrains",
+      "path": "Referential Integrity Constrains.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Programming.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

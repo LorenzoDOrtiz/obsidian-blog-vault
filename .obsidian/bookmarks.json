@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1700605642240,
+      "path": "College.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1700614025259,
+      "path": "Home.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1700611543327,
+      "path": "Data Management.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1700608773742,
+      "path": "Obsidian.md",
+      "title": "Obsidian Help"
+    }
+  ]
+}
