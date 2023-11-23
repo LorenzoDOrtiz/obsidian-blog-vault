@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ad35745876887f95",
+    "id": "6d878814fe445fa9",
     "type": "split",
     "children": [
       {
-        "id": "6c774f4ef7dba907",
+        "id": "b9f0e3523ec3e1cc",
         "type": "tabs",
         "children": [
           {
-            "id": "4fdc02e4693a444b",
+            "id": "ee8aa3525c34cb05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,61 +21,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "12d454b7bdebe43d",
+    "id": "b723f04a78afcf9a",
     "type": "split",
     "children": [
       {
-        "id": "35e0d02f0d0e22aa",
+        "id": "f222f0c3da4cddd3",
         "type": "tabs",
-        "dimension": 15.229885057471265,
         "children": [
           {
-            "id": "a3adb923352dc845",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "926ff16b2e45b9af",
-        "type": "tabs",
-        "dimension": 61.92528735632183,
-        "children": [
-          {
-            "id": "715582b11e768a66",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "062aa021cd1ce32e",
-        "type": "tabs",
-        "dimension": 22.844827586206897,
-        "children": [
-          {
-            "id": "a6e075f0dce5801d",
+            "id": "67c34d13757706a6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "91796561254bb271",
+            "id": "d3cbfea1c9d23989",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "section: join",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,72 +52,35 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 298.5
-  },
-  "right": {
-    "id": "70d58e74ef6b3b19",
-    "type": "split",
-    "children": [
-      {
-        "id": "12f2b52a1851f2f5",
-        "type": "tabs",
-        "dimension": 32.61494252873563,
-        "children": [
+          },
           {
-            "id": "957107e0417690c2",
+            "id": "954f4f92137ca510",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "docs/index.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224453,
-                  "close": true
-                }
-              }
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df936c2859546e4a",
+    "type": "split",
+    "children": [
       {
-        "id": "c388677307fae1a4",
+        "id": "abdbd47748b07227",
         "type": "tabs",
-        "dimension": 38.29022988505747,
         "children": [
           {
-            "id": "9d3187acf1f1d494",
+            "id": "87d4229f8ca7383e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,19 +92,18 @@
             }
           },
           {
-            "id": "489e47dd27c800cc",
+            "id": "982ada8cfe811de6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8cbd1cb482bb1dbb",
+            "id": "5fab46821b7da995",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,35 +114,10 @@
             }
           },
           {
-            "id": "1c303926a88f5736",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad9e4c1670bb294b",
+            "id": "9d6623ec43a9c1bb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/index.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b8f626cd28a49d1d",
-        "type": "tabs",
-        "dimension": 29.094827586206897,
-        "children": [
-          {
-            "id": "2f9ed161fe443189",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -223,70 +125,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "publish:Publish changes...": false,
-      "periodic-notes:Open today": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fdc02e4693a444b",
+  "active": "67c34d13757706a6",
   "lastOpenFiles": [
-    "Indexes.md",
-    "overhead data.md",
-    "Select.md",
-    "Join operation.md",
-    "Relational Databases.md",
-    "Third normal form.md",
-    "Data normalization.md",
-    "First normal form.md",
-    "Second normal form.md",
-    "SQL.md",
-    "data manipulation language.md",
-    "Data Management.md",
-    "data definition language.md",
-    "Alter.md",
-    "Home.md",
-    "Create.md",
-    "Redundancy & multiple themes ( list modification problems or anomalies).md",
-    "Keys.md",
-    "Foreign keys.md",
-    "Primary keys.md",
-    "Problems with lists.md",
-    "Database Systems.md",
-    "Users.md",
-    "Database Applications.md",
-    "Database Management Systems.md",
-    "Database.md",
     "mkdocs.yml",
-    "master",
+    "Insertion Problems.md",
+    "HTML.md",
+    "Family Recipes.md",
+    "Ethical Hacking.md",
+    "Deletion Problems.md",
+    "CSS.md",
+    "C Sharp.md",
+    "docs/Software Engineering/Coding - Getting started.md",
     "docs/javascripts/mathjax.js",
-    "docs/javascripts",
+    "docs/Getting a job/Your first job.md",
+    "docs/Ethical Hacking/Getting started.md",
     "docs/Software Engineering",
+    "docs/javascripts",
+    "docs/index.md",
     "docs/Getting a job",
     "docs/Ethical Hacking",
     "docs/CNAME",
     "docs",
+    "Templates/Yearly Note Template.md",
+    "Templates/Weekly Note Template.md",
+    "Templates/Template.md",
+    "Templates/Daily Note Template.md",
     "Templates",
-    "assets/images/favicon.png",
-    "attatchments/linkedin 1.webp",
-    "attatchments/linkedin.webp",
-    "attatchments/linkedin.svg",
-    "mitchell-luo-FWoq_ldWlNQ-unsplash.jpg",
-    "2keeFXb.jpeg",
-    "Pasted image 20231121133743.png",
-    "42 3.webp",
-    "42 2.webp",
-    "42.webp"
+    "Book Highlights/Taylor Martha R-B-Campbell Biology.md",
+    "Book Highlights/Gray-Men Are from Mars, Women Are from Venus.md",
+    "Book Highlights",
+    "Boards/Board Kanban.md",
+    "Boards",
+    "Home.md",
+    "Indexes.md",
+    "Join operation.md",
+    "First normal form.md",
+    "Second normal form.md",
+    "Third normal form.md",
+    "Data normalization.md"
   ]
 }
